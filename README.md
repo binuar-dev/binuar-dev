@@ -10,7 +10,7 @@ I'm a full-stack developer with a strong backend focus and deep experience in th
 ### 🔧 My Technical Toolbox  
 - **Backend**: Python, Odoo, PostgreSQL, MySQL, MongoDB  
 - **Frontend**: HTML, CSS, SCSS, XML, JavaScript, OWL JS, Figma (UI/UX & Wireframing)  
-- **DevOps & Automation**: Linux, Docker, Shell Scripting  
+- **DevOps & Automation**: Linux, Shell Scripting  
 - **Reporting**: Qweb Reports, Jasper Reports  
 - **APIs & Integrations**: RESTful API Development, 3rd Party Integrations  
 - **Version Control**: Git & GitHub  
